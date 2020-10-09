@@ -45,3 +45,27 @@ text {
 .minh-50 {
   min-height: 50px;
 }
+
+body {
+  background-image: linear-gradient(
+    180deg,
+    #439093,
+    #e9dd8a,
+    #f9ebd9,
+    #e9dd8a,
+    #439093
+  );
+}
+
+ {
+  background-image: linear-gradient(
+    to bottom,
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    indigo,
+    violet
+  );
+}
